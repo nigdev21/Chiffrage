@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background: #272727;
+    color: #272727;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background:#333;
+    color: #f2f2f2;
+    border-top: 1px solid #f2f2f2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.jumbotron {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 15%;
+}
+
+.btn {
+    width: 100%;
+    margin-top: 2%;
+}
+
+input {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+label {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.card {
+    min-width: 50px;
+    background-color: #454545;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-text {
+    color: #b5b5b5;
+}
+
+table {
+    text-align: center;
+}
